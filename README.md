@@ -55,7 +55,7 @@ pharma-trustchain/
 No installation required beyond Python 3.
 
 ```bash
-git clone https://github.com/[yourusername]/pharma-trustchain
+git clone https://github.com/sivaranjaniraldy/-pharma-trustchain.git
 cd pharma-trustchain
 python simulation/simulate.py
 ```
